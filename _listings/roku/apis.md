@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1134-roku.
 x-kinRank: "8"
 x-alexaRank: "7400"
 tags: Televisions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/roku/apis.md
 specificationVersion: "0.14"
 apis: []

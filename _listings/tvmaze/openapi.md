@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: TVmaze
 x-complete: 1
@@ -533,4 +532,3 @@ paths:
       - User
       - Votes
       - Shows
----

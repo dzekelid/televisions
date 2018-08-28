@@ -1,0 +1,261 @@
+{
+	"name": "Streadata.io API Gallery - Televisions",
+	"description": "This is a repository of televisions APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/televisions.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://televisions.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PBS",
+			"x-api-slug": "pbs",
+			"description": "Watch full episodes of your favorite PBS shows, explore music and the arts, find in-depth news analysis, and more. Home to Antiques Roadshow, Frontline, NOVA, PBS Newshour, Masterpiece and many others.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/369-pbs.jpg",
+			"humanURL": "http://www.pbs.org/",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/pbs/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fanart.tv",
+			"x-api-slug": "fanart-tv",
+			"description": "Logos, Backgrounds, Posters and more for your TV, Movie and Music collections, API is used by xbmc, mediabrowser, mediaportal and plex among many others",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/781-fanart-tv.jpg",
+			"humanURL": "https://fanart.tv/",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/fanart-tv/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Roku",
+			"x-api-slug": "roku",
+			"description": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1134-roku.jpg",
+			"humanURL": "http://www.roku.com",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/roku/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Watch",
+			"x-api-slug": "watch",
+			"description": "This website is for sale! wewatchthematch.com is your first and best source for all of the information youre looking for. From general topics to more of what you would expect to find here, wewatchthematch.com has it all. We hope you find what you are ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1215-watch.jpg",
+			"humanURL": "http://dev.wewatchthematch.com/index.php?r=site/index",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/watch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Recreation.gov",
+			"x-api-slug": "recreation-gov",
+			"description": "Recreation.gov is the go-to trip planning resource for federal recreation adventures. A dozen federal agencies participate with Recreation.gov to offer more than 90,000 reservable sites and activities.  Visitors to Recreation.gov plan outdoor adventure...",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.recreation.gov/",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/recreation-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Guidebox",
+			"x-api-slug": "guidebox",
+			"description": "The Guidebox API is a movie, TV and Video API. Get information on movies, tv shows, videos and episodes. Access all the data through the web interface or through the JSON API.",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "https://www.guidebox.com/",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/guidebox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TV Media TV Listings",
+			"x-api-slug": "tv-media-tv-listings",
+			"description": "We are North Americas television listings company! Follow us for exciting news about products and services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2165-tv-media-tv-listings.jpg",
+			"humanURL": "http://tvmedia.ca",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/tv-media-tv-listings/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Comcast",
+			"x-api-slug": "comcast",
+			"description": "Save on XFINITY Digital Cable TV, High Speed Internet and Home Phone Services. Enjoy entertainment your way with great deals on XFINITY by Comcast.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2643-comcast.jpg",
+			"humanURL": "http://www.comcast.com/",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/comcast/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mobovivo",
+			"x-api-slug": "mobovivo",
+			"description": "Mobovivo is a team of TV producers and talented software engineers that turn the TV industries biggest threat - mobile devices pulling audiences away from TV - into their greatest asset - advertising revenue. Mobovivo Second Screen and Social TV platform supports over 100 million interactions / minute for companies like ESPN, TWC and Intel enabling TV viewers to engage with shows across multiple screens.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobovivo_Logo.png",
+			"humanURL": "http://www.mobovivo.com/",
+			"baseURL": "https:///",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/mobovivo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Entertainment Express",
+			"x-api-slug": "entertainment-express",
+			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
+			"humanURL": "https://www.internetvideoarchive.com/",
+			"baseURL": "https://ee.iva-api.com//",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/entertainment-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The TVDB",
+			"x-api-slug": "the-tvdb",
+			"description": "TheTVDB.com is a community driven database of television shows. All content and images on the site have been contributed by the sites users; the site uses moderated editing to maintain its own standards. The database schema and website are open source under the GNU General Public License.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/thetvdb.jpeg",
+			"humanURL": "http://thetvdb.com",
+			"baseURL": "https://api-dev.thetvdb.com//",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/the-tvdb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TVmaze",
+			"x-api-slug": "tvmaze",
+			"description": "Founded in 2014, TVmaze is the leading tv meta-data provider on the web. Serving hundreds of apps and services accoss the web. Providing management tools for users to keep track of their favorite shows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tvm-header-logo.png",
+			"humanURL": "http://www.tvmaze.com",
+			"baseURL": "https://api.tvmaze.com//v1",
+			"tags": "Televisions",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/tvmaze/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Televisions",
+	"include": [
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "PBS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/pbs/apis.yaml"
+		},
+		{
+			"name": "Fanart.tv",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/fanart-tv/apis.yaml"
+		},
+		{
+			"name": "Roku",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/roku/apis.yaml"
+		},
+		{
+			"name": "Watch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/watch/apis.yaml"
+		},
+		{
+			"name": "Recreation.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/recreation-gov/apis.yaml"
+		},
+		{
+			"name": "Guidebox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/guidebox/apis.yaml"
+		},
+		{
+			"name": "TV Media TV Listings",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/tv-media-tv-listings/apis.yaml"
+		},
+		{
+			"name": "Comcast",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/comcast/apis.yaml"
+		},
+		{
+			"name": "Mobovivo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/mobovivo/apis.yaml"
+		},
+		{
+			"name": "Entertainment Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/entertainment-express/apis.yaml"
+		},
+		{
+			"name": "The TVDB",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/the-tvdb/apis.yaml"
+		},
+		{
+			"name": "TVmaze",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/televisions/master/_listings/tvmaze/apis.yaml"
+		}
+	]
+}
